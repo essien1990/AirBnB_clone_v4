@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Felix Adeh Essienne - [Github](https://github.com/essien1990)  
-Abel Gizaw
+Felix Adeh Essienne - [Github](https://github.com/essien1990)
 
 Second part of Airbnb: Joann Vuong
 ## License
